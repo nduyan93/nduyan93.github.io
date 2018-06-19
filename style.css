@@ -1,3 +1,15 @@
 .navbar-AnNha {
     margin-bottom: 0;
 }
+
+.navbar-collapse-AnNha{
+    position: relative;
+}
+
+.navbar-nav-AnNha {
+    text-align: center;
+    margin: 0;
+    padding: 0;
+    line-height: 50px;
+    font-size: 16px;
+}
